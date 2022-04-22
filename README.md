@@ -7,4 +7,4 @@ __Project Description:__ Web scraping project to gather data from the List of co
 
 __Webscraped URL:__ List of countries by GDP (nominal) [ URL: https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal) ]
 
-__Collaborator:__ Nicholas Tucker (ntucker2@my.waketech.edu)
+__Collaborator:__ Nicholas Tucker (ntucker2@my.waketech.edu) - ACCEPTED
